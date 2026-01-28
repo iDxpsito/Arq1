@@ -1,0 +1,14 @@
+C:\Users\nicol\Desktop\Nueva carpeta\bin\Debug\net10.0\Nueva carpeta.exe
+C:\Users\nicol\Desktop\Nueva carpeta\bin\Debug\net10.0\Nueva carpeta.deps.json
+C:\Users\nicol\Desktop\Nueva carpeta\bin\Debug\net10.0\Nueva carpeta.runtimeconfig.json
+C:\Users\nicol\Desktop\Nueva carpeta\bin\Debug\net10.0\Nueva carpeta.dll
+C:\Users\nicol\Desktop\Nueva carpeta\bin\Debug\net10.0\Nueva carpeta.pdb
+C:\Users\nicol\Desktop\Nueva carpeta\obj\Debug\net10.0\Nueva carpeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\Nueva carpeta\obj\Debug\net10.0\Nueva carpeta.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\Nueva carpeta\obj\Debug\net10.0\Nueva carpeta.AssemblyInfo.cs
+C:\Users\nicol\Desktop\Nueva carpeta\obj\Debug\net10.0\Nueva carpeta.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Nueva carpeta\obj\Debug\net10.0\Nueva carpeta.dll
+C:\Users\nicol\Desktop\Nueva carpeta\obj\Debug\net10.0\refint\Nueva carpeta.dll
+C:\Users\nicol\Desktop\Nueva carpeta\obj\Debug\net10.0\Nueva carpeta.pdb
+C:\Users\nicol\Desktop\Nueva carpeta\obj\Debug\net10.0\Nueva carpeta.genruntimeconfig.cache
+C:\Users\nicol\Desktop\Nueva carpeta\obj\Debug\net10.0\ref\Nueva carpeta.dll
