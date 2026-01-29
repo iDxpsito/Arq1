@@ -1,3 +1,10 @@
-# Arquitectura de Software I
-# (ACD) uvicorn main:app --reload
-# (ArqEnCapas) dotnet run
+# ARQUITECTURA DE SOFTWARE I
+
+# (ACD) 
+uvicorn main:app --reload
+
+# (ArqEnCapas) 
+dotnet run
+
+# (Endpoints)
+dotnet run
