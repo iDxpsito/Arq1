@@ -22,9 +22,9 @@ namespace EndpointsDemo.Controllers
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetUsuario(int userid)
+        public IActionResult GetUsuario(int id)
         {
-            var usuario = usuarios.FirstOrDefault(u => u.Id == userid);
+            var usuario = usuarios.FirstOrDefault(u => u.Id == id);
 
             if (usuario == null)
                 return NotFound();
